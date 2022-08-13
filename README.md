@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ### 🏆 About me as a Software Engineer:
 #### I'm a hackathon enthusiast:
 - 1st place overall [winner of VTHacksIX](https://devpost.com/software/uyoga) as a 2-person team out of 73 teams, 400 participants!
+- "Best New Friends, Best New Hack" winner of [Hack with a Crew Hackathon](https://devpost.com/software/hackthemap) with HackTheMap
 - Winner of [MLH Fellowship Summer 2022 Hackathon](https://devpost.com/software/profolio-team-pythonic) with a team portfolio website
 #### I develop my personal projects on the side!
 - Coded my own Discord Bots with customized and interactive currency systems, still in the works but will go live very soon so stay tuned!
