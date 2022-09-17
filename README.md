@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Emilie, I'm a...
 
-* McGill University B.Sc Student majoring in Software Engineer
+* McGill University B.Sc Student majoring in Software Engineering
 * Finance minor, I am interested in learning about Capital investments and financial markets!
 * Curious individual with a thirst to learn about cutting-edge technology and solve real-world problems
 
