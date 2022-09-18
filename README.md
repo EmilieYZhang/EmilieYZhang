@@ -40,12 +40,6 @@ I have recently been part of the awesome Major League Hacking Fellowship!🤓 I 
 
 Production engineering skills that tailor to programming best practices to scale applications, backend development & monitoring with Prometheus, Grafana! 💻 One technology I am exited about is containerization with Docker and I aim to learn more about Kubernetes, hopefully with the opportunity to get hands-on experience!
 
-### ⚡ Fun facts ...
-
-- I have native fluency in French and I am trilingual 🌐
-- Played the piano for over a decade and I have an appreciation for pieces from the Romantic era
-- A personal favourite book of mine is Le Petit Prince
-
 ### 📫 How to reach me: ...
 
 LinkedIn: https://www.linkedin.com/in/emilie-yahui-zhang/ (for business inquiries)
