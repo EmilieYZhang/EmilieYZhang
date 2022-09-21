@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - Winner of [MLH Fellowship Summer 2022 Hackathon](https://devpost.com/software/profolio-team-pythonic) with a team portfolio website
 #### I develop my personal projects on the side!
 - Coded my own Discord Bots with customized and interactive currency systems, still in the works but will go live very soon so stay tuned!
-- Developped a multimedia Reader's Advisory Group [website](https://emilieyzhang.github.io/RAG_Library/) from scratch for a club supervisor at my local library!
+- Developped a multimedia Reader's Advisory Group front-end [website](https://emilieyzhang.github.io/RAG_Library/) from scratch for a club supervisor at my local library!
 
 ### 🔭 I’ve been working on ...
 
