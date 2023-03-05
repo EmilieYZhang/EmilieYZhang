@@ -2,7 +2,7 @@
 
 * McGill University B.Sc Student majoring in Software Engineering
 * Finance minor, I am interested in learning about Capital investments and financial markets!
-* Curious individual with a thirst to learn about cutting-edge technology and solve real-world problems
+* Curious individual who would like to use technology in ethical and innovative ways solve real-world problems
 
 
 <!--
